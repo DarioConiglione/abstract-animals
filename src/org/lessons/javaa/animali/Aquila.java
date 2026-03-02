@@ -2,4 +2,14 @@ package org.lessons.javaa.animali;
 
 public class Aquila extends Animali {
 
+    @Override
+    public void Verso() {
+        System.out.println("Questo animale stride!");
+    }
+
+    @Override
+    public void Mangia() {
+        System.out.println("Questo animale mangia altri animali di piccola dimensione");
+    }
+
 }
