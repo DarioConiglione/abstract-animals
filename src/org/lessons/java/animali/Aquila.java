@@ -1,4 +1,4 @@
-package org.lessons.javaa.animali;
+package org.lessons.java.animali;
 
 public class Aquila extends Animali {
 
