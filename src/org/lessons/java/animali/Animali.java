@@ -4,11 +4,11 @@ public abstract class Animali {
 
     String nome;
 
-    public void Dormi() {
+    public void dormi() {
         System.out.println("Questo animale sta dormendo");
     }
 
-    public abstract void Verso();
+    public abstract void verso();
 
-    public abstract void Mangia();
+    public abstract void mangia();
 }
